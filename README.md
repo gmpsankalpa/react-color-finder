@@ -59,7 +59,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ##
 
-<div align="center>
+<div align="center">
 
    ![repo size](https://img.shields.io/github/repo-size/gmpsankalpa/react-color-finder?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
    ![GitHub forks](https://img.shields.io/github/forks/gmpsankalpa/react-color-finder?&labelColor=black&color=0fb9b1&style=for-the-badge)
