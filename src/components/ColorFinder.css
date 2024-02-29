@@ -1,0 +1,33 @@
+/* src/components/ColorFinder.css */
+.color-finder-container {
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+  background: linear-gradient(to bottom right, #3494e6, #ec6ead);
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.color-display {
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  margin: 20px auto;
+}
+
+p {
+  color: #f4f4f4;
+  font-size: 16px;
+}
