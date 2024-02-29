@@ -13,7 +13,7 @@ A simple React application that allows users to choose a color using a color whe
 
 ## Demo
 
-Include a link to a live demo of your application, if available.
+[Include a link to a live demo of your application, if available.](https://gmpsankalpa.github.io//react-color-finder/index.js)
 
 ## Features
 
