@@ -2,16 +2,18 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import ColorFinder from './components/ColorFinder';
+import Menu from './components/Menu';
 
-function App() {
+const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<ColorFinder />} />
-        {/* Add more routes if needed */}
+        <Route path="/" element={<Menu />} />
+        <Route path="/color-finder" element={<ColorFinder />} />
+        {/* Add more routes for other pages as needed */}
       </Routes>
     </Router>
   );
-}
+};
 
 export default App;
