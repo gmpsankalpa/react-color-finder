@@ -57,7 +57,7 @@ A simple React application that allows users to choose a color using a color whe
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
 
-##
+---
 
 <div align="center">
 
